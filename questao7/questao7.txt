@@ -1,0 +1,10 @@
+As expressões válidas são:
+
+p = mat + 1;
+x = (*mat)++;
+
+
+----------------
+
+p = mat++; mat[0]++ seria válida
+p = ++mat; ++mat[0] seria válida
