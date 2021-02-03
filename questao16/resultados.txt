@@ -1,0 +1,4 @@
+O programa foi executado três vezes, com 100000 elementos no vetor, e como resultado:
+
+A função de ordenação implementada levou, em média, 48.49024133 segundos de execução
+A função qsort teve o tempo médio de execução de 0.00794733 segundos

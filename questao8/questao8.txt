@@ -1,3 +1,3 @@
 O primeiro programa mostra o conteúdo do array
 
-O Segundo programa mostra o endereço que cada elemento do array ocupa na memória, espaçado em 4 bits
+O Segundo programa mostra o endereço que cada elemento do array ocupa na memória, espaçado em 4 bytes

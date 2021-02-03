@@ -1,5 +1,6 @@
 As expressões ilegais são:
 
+p = &*&i;
 p = i;
 i = (*&)j;
 q = *p;
